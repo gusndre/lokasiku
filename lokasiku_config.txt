@@ -1,2 +1,2 @@
-STATUS=OFF
+STATUS=ON
 MESSAGE=Aplikasi dalam proses maintenance. Hubungi pengembang jika butuh bantuan.
