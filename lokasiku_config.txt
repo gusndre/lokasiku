@@ -1,2 +1,2 @@
 STATUS=OFF
-MESSAGE=Aplikasi dalam proses maintenance
+MESSAGE=Aplikasi dalam proses maintenance. Hubungi pengembang jika butuh bantuan.
